@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+coverage/
+*.tsbuildinfo
+.DS_Store
+
+audit-production.json
+package.backup.json
+package-lock.backup.json
